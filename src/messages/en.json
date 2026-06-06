@@ -1,0 +1,146 @@
+{
+    "metadata":{
+    "layout":{
+      "title": "Vido FitLife - Your Guide to a Healthier Lifestyle",
+      "description": "Discover evidence-based articles, effective workouts, and delicious healthy recipes on Vido FitLife. Your go-to resource for sustainable health and wellness.",
+      "keywords": "health, fitness, nutrition, weight loss, healthy recipes, workout routines, mental wellness, disease prevention"
+    },
+     "home": {
+      "title": "Home - Vido FitLife",
+      "description": "Start your journey to a healthier body with fitness, nutrition and science-based guides.",
+      "keywords": "home fitness, health blog, workouts, nutrition tips"
+    }
+  },
+    "jsonld": {
+    "home": {
+      "name": "VIDO FitLife",
+      "description": "Fitness, nutrition, workouts and healthy lifestyle platform.",
+      "about": "Health, Fitness & Nutrition"
+    }
+  },
+  "home": {
+    "hero": {
+      "badgePrefix": "Hey, this is",
+      "badgeHighlight": "VIDO",
+      "badgeSuffix": "FITLIFE",
+      "title": "Living Healthier,",
+      "titleHighlight": "The Realistic Way",
+      "description": "No crash diets. No impossible workouts. Just simple, effective advice to help you build sustainable healthy habits that fit your lifestyle.",
+      "ctaStart": "Start Your Journey",
+      "ctaExplore": "Explore Articles"
+    },
+    "features": {
+      "title": "What You'll Find on Vido FitLife",
+      "subtitle": "Three dedicated sections packed with valuable content to help you live healthier",
+      "articles": {
+        "title": "Articles",
+        "description": "Comprehensive articles covering all aspects of healthy lifestyle - from nutrition science to mental wellness, weight management, and disease prevention.",
+        "points": [
+          "Nutrition & Diet Tips",
+          "Mental Health & Stress Management",
+          "Disease Prevention & Wellness"
+        ]
+      },
+      "workouts": {
+        "title": "Workouts",
+        "description": "Physical activity guides for all fitness levels. Whether you're a beginner or advanced, find workouts that work for you - all from home or gym.",
+        "points": [
+          "Home Workouts (No Equipment)",
+          "Strength Training & Cardio",
+          "Yoga & Flexibility Routines"
+        ]
+      },
+      "recipes": {
+        "title": "Recipes",
+        "description": "Delicious, healthy recipes with detailed ingredient breakdowns and nutritional information. Enjoy Uzbek cuisine made healthier!",
+        "points": [
+          "Healthy Uzbek Traditional Dishes",
+          "Meal Prep & Planning",
+          "Ingredient Substitutions & Tips"
+        ]
+      }
+    },
+    "about": {
+      "title": "About Vido FitLife",
+      "whoWeAre": {
+        "title": "Who We Are",
+        "description": "Our team noticed that each year the rate of illness is rising. For that reason, we decided to gather all information about health and healthy lifestyle in one place. We hope that our website will help people find valuable information that can totally reduce disease rates.",
+        "initials": "VF"
+      },
+      "ourGoal": {
+        "title": "Our Goal",
+        "description": "We want to share people's experiences and knowledge with all visitors. We hope our articles will serve as a life instructor and raise the quality of your life. Together, we can build a healthier Uzbekistan, one person at a time."
+      },
+      "highlights": [
+        "Evidence-based information",
+        "Real experiences from real people",
+        "Practical tips you can use today",
+        "Sustainable lifestyle changes"
+      ]
+    }
+  },
+   "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Vido FitLife and how we can help you live healthier",
+    "items": [
+      {
+        "question": "Is Vido FitLife free to use?",
+        "answer": "Yes! Vido FitLife is completely free. We believe everyone deserves access to quality health information. All our articles, workout guides, and recipes are available at no cost."
+      },
+      {
+        "question": "Are the workouts suitable for beginners?",
+        "answer": "Absolutely! We categorize workouts by difficulty level - beginner, intermediate, and advanced. Our beginner routines require no equipment and focus on proper form and building consistency."
+      },
+      {
+        "question": "Do you offer personalized diet plans?",
+        "answer": "While we don't offer one-on-one personalized plans, our recipes and nutrition guides provide general principles that work for most people. Always consult with a healthcare professional for specific medical conditions."
+      },
+      {
+        "question": "How often do you publish new content?",
+        "answer": "We publish new articles, workouts, and recipes weekly. Subscribe to our newsletter to get notified about fresh content delivered straight to your inbox."
+      },
+      {
+        "question": "Can I contribute my own experience to Vido FitLife?",
+        "answer": "Yes! We welcome community contributions. If you have a healthy living experience, recipe, or workout routine to share, contact us through our submission form. Your story could inspire others!"
+      }
+    ]
+  },
+  "header": {
+    "brandHighlight": "VIDO",
+    "brandName": "FitLife",
+    "ariaToggleMenu": "Toggle menu",
+    "nav": {
+      "home": "Home",
+      "articles": "Articles",
+      "workouts": "Workouts",
+      "recipes": "Recipes",
+      "contact": "Contact"
+    }
+  },
+   "footer": {
+    "brand": "VIDO FitLife",
+    "description": "Science-based information for weight loss, fitness, and healthy eating — empowering you to live stronger and healthier.",
+    "pages": {
+      "title": "Pages",
+      "home": "Home",
+      "articles": "Articles",
+      "workouts": "Workouts",
+      "recipes": "Recipes"
+    },
+    "more": {
+      "title": "More",
+      "privacyPolicy": "Privacy Policy",
+      "termsConditions": "Terms & Conditions",
+      "aboutUs": "About Us"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "emailLabel": "Email:",
+      "email": "info.vido.fitlife@gmail.com",
+      "phoneLabel": "Phone:",
+      "phone": "+998 99 818-42-00"
+    },
+    "copyright": "© {year} VIDO FitLife. All rights reserved."
+  }
+
+}

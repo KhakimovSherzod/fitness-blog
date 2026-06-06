@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "layout": {
+      "title": "Vido FitLife - Sog‘lom turmush tarzi bo‘yicha qo‘llanmangiz",
+      "description": "Vido FitLife’da ilmiy asoslangan maqolalar, samarali mashg‘ulotlar va foydali retseptlarni o‘rganing. Sog‘liq, fitnes va to‘g‘ri ovqatlanish bo‘yicha ishonchli manba.",
+      "keywords": "sog‘liq, fitnes, ovqatlanish, vazn yo‘qotish, foydali retseptlar, mashg‘ulotlar, ruhiy salomatlik, kasalliklarning oldini olish"
+    },
+     "home": {
+      "title": "Bosh sahifa - Vido FitLife",
+      "description": "Sog‘lom hayot sari birinchi qadam: fitnes, ovqatlanish va mashqlar.",
+      "keywords": "fitnes, sog'liq, mashqlar, ovqatlanish"
+    }
+  },
+    "jsonld": {
+    "home": {
+      "name": "VIDO FitLife",
+      "description": "Fitnes, ovqatlanish va sog‘lom hayot platformasi.",
+      "about": "Sog‘liq va fitnes"
+    }
+  },
+  "home": {
+    "hero": {
+      "badgePrefix": "Hey, bu",
+      "badgeHighlight": "VIDO",
+      "badgeSuffix": "FITLIFE",
+      "title": "Sog'lom yashash,",
+      "titleHighlight": "Realistik usulda",
+      "description": "Og'ir dietalar yo'q. Muvaffaqiyatsiz mashqlar yo'q. Faqat turmush tarzingizga mos keladigan barqaror sog'lom odatlarni shakllantirishingizga yordam beradigan oddiy va samarali tavsiyalar.",
+      "ctaStart": "Sayohatingizni Boshlang",
+      "ctaExplore": "Maqolalarni Ko'ring"
+    },
+    "features": {
+      "title": "Vido FitLife'da Sizni Nima Kutmoqda",
+      "subtitle": "Sog'lom yashashingizga yordam beradigan uchta maxsus bo'lim",
+      "articles": {
+        "title": "Maqolalar",
+        "description": "Sog'lom turmush tarzining barcha jihatlarini qamrab oluvchi keng qamrovli maqolalar - ovqatlanish fanidan tortib ruhiy salomatlik, vazn boshqaruvi va kasalliklarning oldini olishgacha.",
+        "points": [
+          "Ovqatlanish va Parhez Maslahatlari",
+          "Ruhiy Salomatlik va Stress Boshqaruvi",
+          "Kasalliklarning Oldini Olish va Salomatlik"
+        ]
+      },
+      "workouts": {
+        "title": "Mashqlar",
+        "description": "Barcha jismoniy tayyorgarlik darajalari uchun jismoniy faollik qo'llanmalari. Boshlang'ich yoki ilg'or bo'lishingizdan qat'iy nazar, sizga mos keladigan mashqlarni toping - uyda yoki sport zalida.",
+        "points": [
+          "Uyda Mashqlar (Jihozsiz)",
+          "Kuch Mashqlari va Kardio",
+          "Yoga va Moslashuvchanlik Mashqlari"
+        ]
+      },
+      "recipes": {
+        "title": "Retseptlar",
+        "description": "Batafsil ingredientlar taqsimoti va ozuqaviy ma'lumotlarga ega mazali, sog'lom retseptlar. O'zbek oshxonasini sog'lomroq qilib zavqlaning!",
+        "points": [
+          "Sog'lom O'zbek Taomlari",
+          "Ovqat Tayyorlash va Rejalashtirish",
+          "Ingredientlarni Almashtirish va Maslahatlar"
+        ]
+      }
+    },
+    "about": {
+      "title": "Vido FitLife Haqida",
+      "whoWeAre": {
+        "title": "Biz Kimmiz",
+        "description": "Bizning jamoamiz har yili kasallanish darajasi ortib borayotganini payqadi. Shu sababli, biz barcha sog'liq va sog'lom turmush tarzi haqidagi ma'lumotlarni bir joyga to'plashga qaror qildik. Umid qilamizki, veb-saytimiz odamlarga kasallik darajasini butunlay kamaytirishi mumkin bo'lgan qimmatli ma'lumotlarni topishga yordam beradi.",
+        "initials": "VF"
+      },
+      "ourGoal": {
+        "title": "Maqsadimiz",
+        "description": "Biz odamlarning tajribalari va bilimlarini barcha tashrif buyuruvchilar bilan baham ko'rmoqchimiz. Umid qilamizki, maqolalarimiz hayot o'qituvchisi bo'lib xizmat qiladi va hayotingiz sifatini oshiradi. Birgalikda, bir vaqtning o'zida bir kishi, sog'lom O'zbekistonni qurishimiz mumkin."
+      },
+      "highlights": [
+        "Dalillarga asoslangan ma'lumot",
+        "Haqiqiy odamlarning haqiqiy tajribalari",
+        "Bugun qo'llashingiz mumkin bo'lgan amaliy maslahatlar",
+        "Barqaror turmush tarzi o'zgarishlari"
+      ]
+    }
+  },
+   "faq": {
+    "title": "Ko'p so'raladigan savollar",
+    "subtitle": "Vido FitLife haqida va biz sizga sog'lom yashashingizga qanday yordam berishimiz haqida bilishingiz kerak bo'lgan hamma narsa",
+    "items": [
+      {
+        "question": "Vido FitLife bepulmi?",
+        "answer": "Ha! Vido FitLife butunlay bepul. Biz har kim sifatli sog'liq ma'lumotlariga ega bo'lishi kerak deb hisoblaymiz. Barcha maqolalarimiz, mashq qo'llanmalarimiz va retseptlarimiz bepul."
+      },
+      {
+        "question": "Mashqlar yangi boshlanuvchilar uchun mosmi?",
+        "answer": "Albatta! Biz mashqlarni qiyinchilik darajasi bo'yicha - boshlang'ich, o'rta va ilg'or deb ajratamiz. Bizning boshlang'ich mashqlarimiz hech qanday jihoz talab qilmaydi va to'g'ri forma va izchillikka e'tibor qaratadi."
+      },
+      {
+        "question": "Shaxsiylashtirilgan parhez rejalarini taklif qilasizmi?",
+        "answer": "Biz birma-bir shaxsiylashtirilgan rejalarni taklif qilmasak-da, retseptlarimiz va ovqatlanish qo'llanmalarimiz ko'pchilik uchun ishlaydigan umumiy tamoyillarni taqdim etadi. Maxsus tibbiy sharoitlar uchun har doim sog'liqni saqlash mutaxassisi bilan maslahatlashing."
+      },
+      {
+        "question": "Qanchalik tez-tez yangi kontent nashr etasiz?",
+        "answer": "Biz har hafta yangi maqolalar, mashqlar va retseptlar nashr etamiz. Yangi kontent haqida to'g'ridan-to'g'ri pochtangizga xabar olish uchun axborot byulletenimizga obuna bo'ling."
+      },
+      {
+        "question": "Vido FitLife'ga o'z tajribamni qo'sha olamanmi?",
+        "answer": "Ha! Biz hamjamiyat hissalarini mamnuniyat bilan qabul qilamiz. Agar sog'lom turmush tajribangiz, retseptingiz yoki mashq tartibingiz bo'lsa, bizning forma orqali biz bilan bog'lang. Sizning hikoyangiz boshqalarni ilhomlantirishi mumkin!"
+      }
+    ]
+  },
+  "header": {
+    "brandHighlight": "VIDO",
+    "brandName": "FitLife",
+    "ariaToggleMenu": "Menyuni ochish/yopish",
+    "nav": {
+      "home": "Bosh Sahifa",
+      "articles": "Maqolalar",
+      "workouts": "Mashqlar",
+      "recipes": "Retseptlar",
+      "contact": "Aloqa"
+    }
+  },
+   "footer": {
+    "brand": "VIDO FitLife",
+    "description": "Og'irlikni yo'qotish, fitnes va sog'lom ovqatlanish bo'yicha ilmiy asoslangan ma'lumotlar — sizni kuchliroq va sog'lomroq yashashga undaydi.",
+    "pages": {
+      "title": "Sahifalar",
+      "home": "Bosh Sahifa",
+      "articles": "Maqolalar",
+      "workouts": "Mashqlar",
+      "recipes": "Retseptlar"
+    },
+    "more": {
+      "title": "Ko'proq",
+      "privacyPolicy": "Maxfiylik Siyosati",
+      "termsConditions": "Foydalanish Shartlari",
+      "aboutUs": "Biz Haqimizda"
+    },
+    "contact": {
+      "title": "Biz bilan bog'lanish",
+      "emailLabel": "Email:",
+      "email": "info.vido.fitlife@gmail.com",
+      "phoneLabel": "Telefon:",
+      "phone": "+998 99 818-42-00"
+    },
+    "copyright": "© {year} VIDO FitLife. Barcha huquqlar himoyalangan."
+  }
+
+}
